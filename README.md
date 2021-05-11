@@ -8,14 +8,14 @@ Your Project Logo/Icon:
 
 ![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
 
-# Project Name (Stylized)
+# Project Name (Stylized) [Must Update]
 Very brief and to the point project description (one sentance preferred)
 
-## Detailed Description
+## Detailed Description [Must Update]
 
 Clear semi-detailed professional description of your project. (about a paragraph or slightly more)
 
-### Project Introduction  
+### Project Introduction [Must Update]  
 
 - Describe very briefly but clearly what the project does.
 - State if it is out-of-the-box user-friendly, so it’s clear to the user.
@@ -26,7 +26,7 @@ Clear semi-detailed professional description of your project. (about a paragraph
 - Note its development status.
 - If possible, include screenshots and demo videos.
 
-### Development Environment
+### Development Environment [Must Update]
 
 Type | Description
 -----|-------------
@@ -73,7 +73,7 @@ Include any essential instructions for:
 - Features planned
 - Known bugs (shortlist)
 
-### Contact
+### Contact [Must Update]
 
 Contact | Information
 --------|------
@@ -82,7 +82,7 @@ Email | Your Email Address
 Social Media Link | Your Social Media link(s) (if applicable)
 Google Group/mailing list | Your mail distribution list (if applicable)
 
-### License
+### License [Must Update]
 Indicate your license/License model, etc.
 
 (also, review the Instructions for adding a license file:
@@ -96,7 +96,7 @@ The three major licenses used are:
 
 Apache License v2.0
 
-GNU General Public License v3.0
+GNU General Public License v3.0 [Use this one]
 
 MIT License
 
